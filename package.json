@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-boilerplate",
+  "version": "1.0.0",
+  "description": "This boilerplate represents MVC pattern and having some reusable functionality.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thisisrajkumar/Nodejs-boilerplate.git"
+  },
+  "author": "Rajkumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thisisrajkumar/Nodejs-boilerplate/issues"
+  },
+  "homepage": "https://github.com/thisisrajkumar/Nodejs-boilerplate#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
